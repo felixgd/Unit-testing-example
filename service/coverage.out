@@ -1,0 +1,5 @@
+mode: set
+github.com/felixgd/unitTest-example/service/service.go:11.47,13.2 1 1
+github.com/felixgd/unitTest-example/service/service.go:15.57,16.17 1 1
+github.com/felixgd/unitTest-example/service/service.go:20.2,22.20 2 1
+github.com/felixgd/unitTest-example/service/service.go:16.17,18.3 1 1
